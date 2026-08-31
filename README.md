@@ -51,7 +51,7 @@
   <img src="https://raw.githubusercontent.com/shriv-mono7/shriv-mono7/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-> ⚠️ The snake image needs a one-time GitHub Action setup — see instructions below.
+
 
 ---
 
