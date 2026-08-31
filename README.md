@@ -15,7 +15,7 @@
 - 🎓 CSE Student at **SRM Institute of Science and Technology**, Kattankulathur
 - 💻 Exploring **Programming, Operating Systems, Data Structures & Electronics**
 - 🌱 Currently sharpening my skills in **C++** and **Java**
-- ⚡ Fun fact: I set up my whole VS Code just to run C++ with one click
+  
 
 ---
 
